@@ -1,3 +1,1 @@
-import { listen } from "./listener"
-
-listen()
+console.log("hi")
